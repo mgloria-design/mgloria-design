@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi, I’m Gloria Mutheu
 
-<!--
-**mgloria-design/mgloria-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior backend developer learning to build reliable and efficient systems.
+Passionate about APIs, databases, and problem solving.
 
-Here are some ideas to get you started:
+🌱 What I’m Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend development with Python & Django
+
+Working with MySQL and other databases
+
+Using Git & GitHub for version control
+
+🛠 Skills
+
+Languages: Python, JavaScript, SQL
+
+Backend: Django, Express.js
+
+Tools: Git
+
+📌 Projects
+
+🚧 No major projects yet — currently learning and working on small practice projects.
+➡️ Stay tuned, I’ll be updating this section soon!
+
+📫 How to Reach Me
+
+📧 Email: mutheug343@gmail.com
